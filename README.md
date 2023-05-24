@@ -1,10 +1,8 @@
-# kavinda Botheju
+# Hi there! I'm kavinda Botheju👋
 
-
-
-![my profile](https://avatars.githubusercontent.com/u/117912732?s=400&u=2308c95ba585d903e73ec163d5d9d43dad644b4e&v=4)
 ## About me
-my name is kavinda botheju and undergraduate at univeristy of kelaniya.
+
+ I am an undergraduate student at the University of Kelaniya. I'm an enthusiastic and passionate individual with a love for technology and a knack for problem-solving. I believe in using my skills and knowledge to make a positive impact in the world of tech. With a curiosity that knows no bounds, I'm constantly exploring new technologies, diving into coding challenges, and embracing innovative solutions.🔥
 
 
 
@@ -15,14 +13,13 @@ my name is kavinda botheju and undergraduate at univeristy of kelaniya.
 
 ### School
 
+* **school** : Isipathana Collage
+
+### UG Degree
+
 * **University** : University of Kelaniya
-* **Degree** : Bsc(hons) in Computer Science
+* **Degree** : Bsc(hons) Computer Science
 
-### path
-
-- [x] O/L
-- [x] A/L
-- [] degree
 
 
 
