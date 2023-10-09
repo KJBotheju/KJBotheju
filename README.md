@@ -1,6 +1,6 @@
 <h1>Kavinda Botheju</h1>
 
-
+[![An image of @kjbotheju's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kjbotheju)](https://holopin.io/@kjbotheju)
 
 
 
